@@ -1,5 +1,5 @@
-**Business Sales Performance Analytics Dashboard
-**
+**Business Sales Performance Analytics Dashboard**
+
 **Overview**
 This project analyzes business sales data to identify revenue trends, profitability, and performance across product categories and regions.
 An interactive Power BI dashboard was created to support data-driven business decisions.
